@@ -1,2 +1,2 @@
 # Hotel Api
-Granular IT Hackathon 2022
+Api for a whatsapp chatbot meant to help hotels outsource their goods.
